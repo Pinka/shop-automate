@@ -7,7 +7,7 @@ export const AppHeader = () => {
 
   return (
     <header className="flex flex-row items-center gap-2 justify-between p-2 border-b">
-      <h1>Shop Automate</h1>
+      <h1>ShopAutomate</h1>
       <div className="flex items-center gap-2">
         {session && (
           <>
